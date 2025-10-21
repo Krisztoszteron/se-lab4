@@ -1,0 +1,6 @@
+# a GT4500 all sikertelen, üresek
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO
+SUCCESS  # <- TORPEDO
+SUCCESS  # <- TORPEDO
+SUCCESS  # <- TORPEDO
