@@ -1,0 +1,3 @@
+# a GT4500 fire all sikeres, az elsődleges üres
+GT4500,0,0,1,0
+TORPEDO,ALL
