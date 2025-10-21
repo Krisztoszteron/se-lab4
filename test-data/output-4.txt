@@ -1,0 +1,3 @@
+# a GT4500 single sikeres, mindkettőben van
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO

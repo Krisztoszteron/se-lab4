@@ -1,0 +1,3 @@
+#a GT4500 fire all sikertelen, a másodlagos üres
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO
